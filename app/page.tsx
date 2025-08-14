@@ -354,6 +354,7 @@ export default function LandingPage() {
                 <Link href="#" className="block text-gray-400 hover:text-white transition-colors">
                   Contact
                 </Link>
+                //link
                 <Link href="#" className="block text-gray-400 hover:text-white transition-colors">
                   Status
                 </Link>
