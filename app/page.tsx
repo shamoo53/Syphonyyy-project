@@ -362,7 +362,7 @@ export default function LandingPage() {
           </div>
 
           <div className="border-t border-white/10 mt-8 pt-8 text-center text-gray-400">
-            <p>&copy; 2024 Syphonyy. All rights reserved.</p>
+            <p>&copy; 2024 Syphonyy. All rights reserveddfg.</p>
           </div>
         </div>
       </footer>
